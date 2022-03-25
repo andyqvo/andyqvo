@@ -1,8 +1,5 @@
 ### Hi there, I'm Andy! 👋
 - 😄 &nbsp;I'm a full stack developer from Los Angeles, CA
-- 🌱 &nbsp;I’m currently studying data structures and algorithms
-- 🔭 &nbsp;I’m open to job opportunities!
-- 💡 &nbsp;I'm interested in building tools to make people's lives easier
 
 ### Languages and Tools 🛠
 <p align="left"> 
